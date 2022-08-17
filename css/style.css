@@ -68,7 +68,7 @@ nav li:hover:after{
 }
 .main{
     display: flex;
-    background-image: url(/bg1.jpg);
+    background-image: url(bg1.jpg);
     background-size: cover;
     height: 100vh;
 
